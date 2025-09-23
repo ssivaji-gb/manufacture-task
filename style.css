@@ -612,7 +612,7 @@ background: #0f766e;
       }
 
       nav ul {
-        display: none; /* Hide menu on small screens */
+        display: none; 
       }
 
       .signup-btn {
